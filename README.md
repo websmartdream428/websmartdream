@@ -1,62 +1,25 @@
-🎉 Welcome to my profile. 🎉
-
-Hello, My name is ____________.
-👍👍👍 First of all, Hope you are doing well and safe from Covid-19. 🙏🙏🙏
-
-💡 WHO AM I? 💡
-
-I am a real full-stack developer with both theoretical knowledge and hands-on experience in web development. 
-For about 10 years, I've been working as a Web Developer.
-I believe that people should do things in which they are good at or in which their heart lays.
-That’s why I chose freelance web development as my career because I believe I’m good at this and mas I am always honest and I am never afraid of doing hard work.
-
-⚡ WHAT ARE MY SKILLS? ⚡
-
-🥇 Primary Skills 🥇
-🏆 React/React Native/Next.js/Redux/Recoil
-🏆 Styled Component, Material UI, Ant Design
-🏆 HTML/HTML5, CSS/CSS3
-🏆 JavaScript/ES6, TypeScript, jQuery
-🏆 Node.js, Express.js, Nest.js
-🏆 PHP/CodeIgnitor
-🏆 Shopify, eCommerce
-🏆 MongoDB, MySQL, PostgreSQL
-❤️ Good Experienced Skills ❤️
-✅Vue/Vuex/Nuxt.js
-✅Angular/Ionic, Laravel
-✅Python/Django,  WordPress
-
-🎨 MY WORKING STYLE 🎨
-
-❣️ Start a project immediately
-❣️ Full-time developer (40+ hours per week)
-❣️ Working in your time zone & Good communication.
-❣️ Update the result daily, every week
-❣️ Keep on-Time, on-Budget
-❣️ 100% ongoing satisfaction with your project.
-❣️ Provide the result with high quality
-❣️ Lifetime Free Bug-Fix support after completion
-
-✍️ WHAT I WILL OFFER YOU? ✍️
-
-📌 Unlimited round of revisions
-📌 Different concepts
-📌 Aesthetic, sleek, visually appealing, and modernistic UI/UX (Will reflect your services)
-📌 Fully responsive (Mobile, Desktop, Tablet)
-📌 Speed optimize
-📌 SEO friendly
-📌 Editable, easy to manage, and user pleasuring UI
-📌 Scheduling integration
-📌 Secure Backend
-📌 31 days warranty period
-📌 Training session on How to manage it
-
-⭐⭐⭐⭐⭐
-It’s easy to find people promising everything and delivering almost nothing.
-My major strengths are in giving realistic promises, being responsive and responsible.
-So I am not a pure geek thinking about technology only but, first, a making-things happen person.
-I can assure you that I can work full time in the client timezone.
-I would help my clients to grow stronger and would grow with my clients.
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 🙏Thank you for your visit.🙏![image](https://user-images.githubusercontent.com/88822174/145702478-27c80a5b-3bc4-4f77-b706-9fb49c61867b.png)
 
