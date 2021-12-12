@@ -21,6 +21,4 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-🙏Thank you for your visit.🙏![image](https://user-images.githubusercontent.com/88822174/145702478-27c80a5b-3bc4-4f77-b706-9fb49c61867b.png)
-
 <p align="centre">![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=websmartdream&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
